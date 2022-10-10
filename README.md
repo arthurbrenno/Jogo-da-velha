@@ -2,7 +2,7 @@
 # 👵🏻JOGO DA VELHA
 
 Olá! Fiz um jogo da velha utilizando conceitos de classes e objetos.
-Este é o meu primeiro projeto! Estou bem animado!
+Este é o meu primeiro projeto de todos os tempos! Estou bem animado!
 
 # ❓Como foi feito:
 
