@@ -1,4 +1,4 @@
-
+[OUTDATED] Irei mudar depois. Só tem uma classe aqui.
 # 👵🏻JOGO DA VELHA
 
 Olá! Fiz um jogo da velha utilizando conceitos de classes e objetos.
